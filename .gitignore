@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+build/
+dist/
+nbproject/
+.dep.inc
